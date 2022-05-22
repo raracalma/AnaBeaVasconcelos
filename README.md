@@ -12,7 +12,7 @@
   <img align="center" alt="ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ana-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="ana-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"><br>
-  <img align="right" alt="ana-pic" src="https://i.picasion.com/pic92/69fe11dd8e31875524e32e9d823c192e.gif" width="200" height="200" border="10%"> 
+  <img align="right" alt="ana-pic" src="picasion.com_69fe11dd8e31875524e32e9d823c192e.gif" width="200" height="200" border="10%"> 
 </div></br>
 
  ##

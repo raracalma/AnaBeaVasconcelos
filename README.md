@@ -1,4 +1,9 @@
-## Olá eu sou a Ana Beatriz! E estou cursando o ciências da computação com previsão de me formar em 2026
+# Olá me chamo Beatriz! 
+Estou cursando o ciências da computação com previsão de me formar em 2026. 
+
+Me interesso na área de desenvolvimento mobile, desenvolvimento web e desenvolvimento de jogos. 
+
+Atualmente estou adquirindo conhecimentos do frontend, mas no futuro pretendo me tornar uma fullstack
 
 <div align="center">
   <a href="https://github.com/AnaBeaVasconcelos">
@@ -17,9 +22,8 @@
 </div></br>
 
  ##
- ## Tenho um interesse maior na área de desenvolvimento mobile, desenvolvimento web e desenvolvimento de jogos
  
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/httpsalyx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-vasconcelos-83b909235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 

@@ -1,6 +1,4 @@
-## Olá eu sou a Ana Beatriz!
-## Estou cursando o ciências da computação com previsão de me formar em 2026
-## Tenho um interesse maior na área de desenvolvimento mobile, desenvolvimento web e desenvolvimento de jogos
+## Olá eu sou a Ana Beatriz! E estou cursando o ciências da computação com previsão de me formar em 2026
 
 <div align="center">
   <a href="https://github.com/AnaBeaVasconcelos">
@@ -8,6 +6,8 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeaVasconcelos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div> 
    
+##
+  
   <img align="center" alt="ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,6 +17,8 @@
   <img align="right" alt="ana-pic"  height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/69fe11dd8e31875524e32e9d823c192e.gif"> 
 </div></br>
 
+ ##
+ ## Tenho um interesse maior na área de desenvolvimento mobile, desenvolvimento web e desenvolvimento de jogos
  ##
  
 <div> 

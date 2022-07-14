@@ -1,4 +1,6 @@
-## Oiii eu sou a Ana Beatriz!
+## Olá eu sou a Ana Beatriz!
+## Estou cursando o ciências da computação com previsão de me formar em 2026
+## Tenho um interesse maior na área de desenvolvimento mobile, desenvolvimento web e desenvolvimento de jogos
 
 <div align="center">
   <a href="https://github.com/AnaBeaVasconcelos">

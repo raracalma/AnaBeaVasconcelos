@@ -1,5 +1,5 @@
 # Olá me chamo Beatriz! 
-Estou cursando o ciências da computação com previsão de me formar em 2026. 
+Estou cursando ciências da computação com previsão de me formar em 2026. 
 
 Me interesso na área de desenvolvimento mobile, desenvolvimento web e desenvolvimento de jogos. 
 

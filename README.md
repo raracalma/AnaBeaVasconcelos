@@ -41,7 +41,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/KjJsyZ6/picasion-com-69fe11dd8e31875524e32e9d823c192e.gif"  />
+<img align="right" height="180" width="180" src="https://i.ibb.co/KjJsyZ6/picasion-com-69fe11dd8e31875524e32e9d823c192e.gif"  />
 
 ###
 

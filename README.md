@@ -1,7 +1,7 @@
 <div align="center">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AnaB.AnaB&left_color=palegreen&right_color=cornflowerblue" />
 
-<h2 align="left"> Hello Word, I am Beatriz, and I'm a 19 years old</h2>
+<h2 align="center"> Hello Word, I am Beatriz, and I'm a 19 years old</h2>
 </div>
 
 <div align="center">

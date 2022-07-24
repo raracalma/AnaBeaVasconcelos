@@ -1,5 +1,5 @@
 <div align="center">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AnaB.AnaB&color=blue" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AnaB.AnaB&color=9cf" />
 
 <h2 align="center"> Hello Word, I am Beatriz, and I'm a 19 years old</h2>
 </div>
